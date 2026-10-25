@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
   "title": "A better MindFocus is here!",
   "message": "Update MindFocus to enjoy improvements and bug fixes.",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.blockpuzzlegame.tetrisgame",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "isBuyMeACoffeeShow": false,
  "urlForBuyMeACoffee": "https://www.buymeacoffee.com/gauravtakjaipur"
 }
